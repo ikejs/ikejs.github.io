@@ -1,3 +1,4 @@
-## ike.dev
+# ike.dev
 
-Hello, world!
+Heyo! I'll be adding projects here soon.
+
